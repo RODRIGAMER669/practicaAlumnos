@@ -1,0 +1,6 @@
+com\example\psp\practica\uno\modelo\Alumnos.class
+com\example\psp\practica\uno\modelo\Academia.class
+com\example\psp\practica\uno\modelo\db\AcademiaDAO.class
+com\example\psp\practica\uno\modelo\mock\AcademiaMock.class
+com\example\psp\practica\uno\App.class
+com\example\psp\practica\uno\modelo\db\AcademiaDAOImpl.class
